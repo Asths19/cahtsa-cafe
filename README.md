@@ -20,8 +20,7 @@ Cahtsa's Cafe is a front-end website designed to create a cozy and inviting cafe
 - JavaScript
 
 ## Live Demo
-
-Add your GitHub Pages link here after deployment.
+https://asths19.github.io/cahtsa-cafe/
 
 ## Author
 
